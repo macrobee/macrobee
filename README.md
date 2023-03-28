@@ -17,19 +17,19 @@ Hi, I’m Vivian. I'm from Toronto, Canada. I am a self-taught front-end develop
 </a>
 
 <a href="https://de.wikipedia.org/wiki/JavaScript">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/-Typescript-blue" />
 </a>
 
 <a href="https://reactjs.org/">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-React-black" />
 </a>
 
 <a href="https://www.typescriptlang.org/">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Typescript-yellow" />
 </a>
 
 <a href="https://sass-lang.com/">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SASS-pink" />
 </a>
 
 <a href="https://tailwindcss.com/">
